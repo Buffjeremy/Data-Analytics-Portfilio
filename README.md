@@ -42,6 +42,6 @@ I'm always open to discussing data, new opportunities, or collaborating on inter
 
     Email: jeremiahschantz@gmail.com
 
-    LinkedIn: [Your LinkedIn Profile URL Here]
+    LinkedIn: https://www.linkedin.com/in/jeremy-schantz-a1057b9b/
 
-    GitHub: [Your GitHub Profile URL Here - if different from this portfolio]
+   
