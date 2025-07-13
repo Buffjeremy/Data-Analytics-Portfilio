@@ -21,6 +21,7 @@ Here's a snapshot of my technical toolkit:
     Other: Network Troubleshooting, Device Repair, Process Optimization, Cross-Functional Communication
 
 Featured Projects
+To first hone my data analytic skills I did a study involving splitting checks while I was waiting tables. For every check that I split in two, I gave one sample group one pen to share to calculate the tip, while I have a second sample group two pens so that each party had their own individual pen. I then kept track of all the check amounts and the tip amounts. My initial assumption was that the group that had to share a pen may tip higher because the sharing of the pen would initate conversation amongst the parties about tip. You can find the results of my study [here](...).  
 
 
 
